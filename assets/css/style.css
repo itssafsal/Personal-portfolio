@@ -315,7 +315,7 @@ header.sticky .nav-bar{
 
 }
 .home-blob-img{
-    width: 85%;
+    width: 65%;
     /* transform: translate(8px,10px); */
 }
 .home .scroll-down{
@@ -568,13 +568,22 @@ header.sticky .nav-bar{
     width:98%;
 }
 .bar .Javascript:before{
-    width:70%;
+    width:80%;
 }
 .bar .Jquery:before{
-    width:50%;
+    width:70%;
 }
 .bar .React:before{
-    width:10%;
+    width:80%;
+}
+.bar .Node:before{
+    width: 90%;
+}
+.bar .Express:before{
+    width:85%;
+}
+.bar .Mongo:before{
+    width: 75%;
 }
 
 .project-card{

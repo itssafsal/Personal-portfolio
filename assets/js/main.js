@@ -147,7 +147,7 @@ closeBtn.addEventListener("click", () => {
 ScrollReveal({
     reset: true,
     distance: '50px',
-    duration:1500,
+    duration:1000,
     delay:50
 });
 
